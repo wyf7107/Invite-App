@@ -1,0 +1,13 @@
+PODS:
+  - SCLAlertView-Objective-C (0.7.9)
+  - TextFieldEffects (1.1.0)
+
+DEPENDENCIES:
+  - SCLAlertView-Objective-C
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  SCLAlertView-Objective-C: e36ab12dc1ec4ff6f932888083b21d71a3a1ad23
+  TextFieldEffects: 8e43fea8836e97be80fc4db27a1596c9e98a26ba
+
+COCOAPODS: 0.39.0
